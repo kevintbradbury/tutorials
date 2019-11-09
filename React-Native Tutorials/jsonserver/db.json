@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "title": "Test Post",
+      "content": "All the content\n another line here \nAnd one more",
+      "id": 1
+    },
+    {
+      "title": "My longer title",
+      "content": "Thsi isnt content for u",
+      "id": 2
+    },
+    {
+      "title": "4th post",
+      "content": "Yep again",
+      "id": 4
+    },
+    {
+      "title": "New post",
+      "content": "Ncjcjekk",
+      "id": 5
+    }
+  ]
+}

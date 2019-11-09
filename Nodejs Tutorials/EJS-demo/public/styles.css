@@ -1,0 +1,11 @@
+body {
+    background-image: url("http://trickvilla.com/wp-content/uploads/Light-Wood-Background.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+
+h1:hover {
+    color: blue;
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <!-- <link rel="stylesheet" type="text/css" href="randomStyles.css"> -->
+  <style type="text/css">
+  body {
+    color: red;
+  }
+  ul {
+    color: blue;
+  }
+  li {
+    color: orange;
+  }
+  </style>
+  <link href="https://fonts.googleapis.com/css?family=Germania+One" rel="stylesheet">
+
+</head>
+<body>
+  <h4>Death there mirth way the noisy merit</h4>
+
+  <ol>
+    <li class="highlight"><a href="http://yahoo.com">Test</a></li>
+    <li>Jump</li>
+    <li>Go</li>
+    <li>Fly</li>
+  </ol>
+
+<p>Hello</p>
+
+  <ul>
+      <li>Run</li>
+      <li>Jump</li>
+      <li>Play</li>
+      <li>Hide</li>
+  </ul>
+
+</body>
+
+</html>

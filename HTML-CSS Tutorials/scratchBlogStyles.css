@@ -1,0 +1,33 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  border: 20px solid #BDC3C7;
+  padding: 20px;
+  max-width: 700;
+  width: 80%
+  margin: 20px auto;
+}
+h3 {
+  color: #3498db;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+}
+h1 {
+  color: #2C3E50;
+}
+div {
+  border-bottom: solid lightgray;
+  padding-bottom: 10px;
+}
+p {
+  border-left: solid lightgray;
+  padding-left: 5px;
+}
+p::first-letter {
+  font-size: 3em;
+  color: #3498db;
+}
+/*
+font-family: 'Source Sans Pro', sans-serif;
+border: #bdc3c7
+date: #3498db
+*/

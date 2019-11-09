@@ -1,0 +1,17 @@
+h1 {
+  color: #FF0000;
+  border-color: purple;
+  border-width: 1px;
+  border-style: solid;
+}
+li {
+  color: rgb(68,0,255);
+}
+h4 {
+  color: rgba(11,99,150,.6);
+  background: rgb(255, 0, 0);
+}
+body {
+  /*background: url(https://i.pinimg.com/originals/a5/fd/a3/a5fda36c817c7f8baca1b5c9ac7c553b.jpg);
+  background-repeat: no-repeat;*/
+}
